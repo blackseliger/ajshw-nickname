@@ -1,1 +1,1 @@
-# ajshw-for...in  [![Build status](https://ci.appveyor.com/api/projects/status/lnf7q3jyxg1innt9?svg=true)](https://ci.appveyor.com/project/blackseliger/ajshw-for-in)
+# ajshw-nickname [![Build status](https://ci.appveyor.com/api/projects/status/mfwco71573j4wr9h?svg=true)](https://ci.appveyor.com/project/blackseliger/ajshw-nickname)
